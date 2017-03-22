@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'HFCategoryPublic'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of HFCategoryPublic.'
+  s.summary          = 'HFCategoryPublic.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,14 +18,14 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+这是一个公开扩展 CoderHFZhu
                        DESC
 
-  s.homepage         = 'https://github.com/zack/HFCategoryPublic'
+  s.homepage         = 'https://github.com/CoderHFZhu/HFCategoryPublic'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'zack' => '54666674@qq.com' }
-  s.source           = { :git => 'https://github.com/zack/HFCategoryPublic.git', :tag => s.version.to_s }
+  s.author           = { 'CoderHFZhu' => '54666674@qq.com' }
+  s.source           = { :git => 'https://github.com/CoderHFZhu/HFCategoryPublic.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

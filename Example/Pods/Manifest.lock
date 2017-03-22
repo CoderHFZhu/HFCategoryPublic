@@ -1,0 +1,16 @@
+PODS:
+  - HFCategoryPublic (0.1.0)
+
+DEPENDENCIES:
+  - HFCategoryPublic (from `../`)
+
+EXTERNAL SOURCES:
+  HFCategoryPublic:
+    :path: ../
+
+SPEC CHECKSUMS:
+  HFCategoryPublic: 31dbf3a3790de3f815f4de268de78c8598473494
+
+PODFILE CHECKSUM: bf10445688349a7e7f693777790f6feea3fd6bd9
+
+COCOAPODS: 1.2.1.beta.1

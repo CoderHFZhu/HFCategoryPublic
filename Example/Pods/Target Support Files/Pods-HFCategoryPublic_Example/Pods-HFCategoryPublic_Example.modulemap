@@ -1,0 +1,6 @@
+framework module Pods_HFCategoryPublic_Example {
+  umbrella header "Pods-HFCategoryPublic_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

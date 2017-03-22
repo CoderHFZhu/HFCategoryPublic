@@ -1,0 +1,6 @@
+framework module Pods_HFCategoryPublic_Tests {
+  umbrella header "Pods-HFCategoryPublic_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

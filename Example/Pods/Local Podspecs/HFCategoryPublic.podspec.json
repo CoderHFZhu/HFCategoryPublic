@@ -1,0 +1,22 @@
+{
+  "name": "HFCategoryPublic",
+  "version": "0.1.0",
+  "summary": "A short description of HFCategoryPublic.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zack/HFCategoryPublic",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zack": "54666674@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/zack/HFCategoryPublic.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HFCategoryPublic/Classes/**/*"
+}
