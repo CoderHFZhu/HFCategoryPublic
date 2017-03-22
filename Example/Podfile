@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HFCategoryPublic_Example' do
+  pod 'HFCategoryPublic', :path => '../'
+
+  target 'HFCategoryPublic_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
